@@ -1,6 +1,8 @@
 ﻿
  
- --- EL CONTENIDO DE ESTE README SE PUEDE EVIDENCIAR MEJOR EN SOLUCION.PDF ---
+ --- EL CONTENIDO DE ESTE README SE PUEDE EVIDENCIAR MEJOR EN 'Taller 3 - g.garciac_a.trianaa.pdf' ---
+ 
+ 
 **Taller 3 - Vistas**
 
 **Por:**
