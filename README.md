@@ -1,5 +1,6 @@
 ﻿
-
+ 
+ --- EL CONTENIDO DE ESTE README SE PUEDE EVIDENCIAR MEJOR EN SOLUCION.PDF ---
 **Taller 3 - Vistas**
 
 **Por:**
