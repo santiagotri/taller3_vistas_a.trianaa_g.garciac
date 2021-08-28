@@ -11,6 +11,8 @@ Gabriela García 201912531
 Para probar los requerimientos se crearán 5 medidas de prueba como se muestra a
 
 continuación
+![image](https://user-images.githubusercontent.com/69616930/131229397-8a4234c1-039d-4de2-820b-ade57d3e68da.png)
+
 
 ***Imagen 1.** Captura de pantalla añadiendo valores de prueba.*
 
